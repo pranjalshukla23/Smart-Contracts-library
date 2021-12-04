@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "isItAContract",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearningCyberSecurity.sol": "Victim"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearningCyberSecurity.sol": {
+			"keccak256": "0x37ee59ae320336d7c49b6a27bb22c3eeba35c047bfe7e5760c3dec3654746c91",
+			"urls": [
+				"bzz-raw://4aaac941eb153b9f4a5649dae620fa49f19aea06f4bd600bb7c9315544f051d6",
+				"dweb:/ipfs/QmW1pcGFgVFZrdStYAFaVQTtsS1kY5hxGdZkWPuYNXxSex"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearnGlobalVariables.sol": "SimpleStorage"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearnGlobalVariables.sol": {
+			"keccak256": "0x278cf6985bb471b35efafa30d7f7f5302484c463f40b33745a02372b50b37c1f",
+			"urls": [
+				"bzz-raw://12dc6e9a4c8a7537395ec4a8961bd1ce835ba4e88d78b92a60909442a0604faa",
+				"dweb:/ipfs/QmZ2k6nwghBAdyk4LAZfL2uY76MU76t4ddf8DF56EbDi4p"
+			]
+		}
+	},
+	"version": 1
+}

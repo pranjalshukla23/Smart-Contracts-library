@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "isValuePresent",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ExcerciseLibrary.sol": "Test2"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ExcerciseLibrary.sol": {
+			"keccak256": "0xa28846c709795e8f7d815f474705b2e18192db30660f1b4e0d8dbc36e1b593b5",
+			"urls": [
+				"bzz-raw://82e82e53a5744d745d9854303959d3f1a0ccd53a00476b5b2b7cab0e69fe82b7",
+				"dweb:/ipfs/QmYhAhiRrjHm8hy4QCMBpn3PtQjUUCULidZaVELq64j6j2"
+			]
+		}
+	},
+	"version": 1
+}

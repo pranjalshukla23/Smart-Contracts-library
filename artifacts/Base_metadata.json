@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_data",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ExcerciseConstructors.sol": "Base"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ExcerciseConstructors.sol": {
+			"keccak256": "0x6fbcb00060cc234e106e4abb8886b55f06e29278b735fb7390c07405a0f69a69",
+			"urls": [
+				"bzz-raw://4f460345f4a515e3891169348d22a1464dbbe74b6717131dff19c461956beb6c",
+				"dweb:/ipfs/QmYxti3n4ep1CyzRLCTNNZpHwYUJZSFb19aNknkpb3gPsq"
+			]
+		}
+	},
+	"version": 1
+}

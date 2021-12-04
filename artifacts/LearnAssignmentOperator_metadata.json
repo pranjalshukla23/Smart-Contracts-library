@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assign",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearnAssignmentOperator.sol": "LearnAssignmentOperator"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearnAssignmentOperator.sol": {
+			"keccak256": "0x023f318adf0ff1dcb3ec8dc589a8d2debe23ec5f02ef18caf4cfa912c06d7639",
+			"urls": [
+				"bzz-raw://b85fdad7e5d886575ae1e474ce1eb00ba4bf8102f915d49049336c33b3ee3bcc",
+				"dweb:/ipfs/QmUeJmYW1h52TBDM8gSm1XPTB9oYWTC43SnvJLSbe3rCxA"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "compare",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ExcerciseComparisonOperators.sol": "ExcerciseComparisonOperator"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ExcerciseComparisonOperators.sol": {
+			"keccak256": "0xe11e0d48e2d6ab8abaee63d544b2f53f8c2bea41ec38d0128ff0df9ceb3e2fd6",
+			"urls": [
+				"bzz-raw://46cab0a9bc2ac98b8795825ce9d9b9dc0e6303b8ac5ad8c45a5d5cfa685c72ce",
+				"dweb:/ipfs/Qmbp3WrtFWBKTXwLn6PogtcyXFt2tZG2r9dXV4uMZRu3uN"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "excercise",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearnTimeUnits.sol": "LearnTimeUnits"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearnTimeUnits.sol": {
+			"keccak256": "0xba9b510ccc0a1a5ad135e9ca29d71d9c12133fcd638d032d904604b469fdbaa7",
+			"urls": [
+				"bzz-raw://a08385cb437cad10803e1f00c7c54bdb544367ebe62a9232121d54a1e00b9615",
+				"dweb:/ipfs/QmP36DntuvAi3kpDbYQmabnapT4W6zQRkR2TJLR56Kwz6w"
+			]
+		}
+	},
+	"version": 1
+}

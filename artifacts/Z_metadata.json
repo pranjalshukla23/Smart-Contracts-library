@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "y",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearningAbstraction.sol": "Z"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearningAbstraction.sol": {
+			"keccak256": "0x2dd8443db2eb0e77b5b4dc53b8f6b293323ac9b2d9cc758b4d425b3a0a3ab4d3",
+			"urls": [
+				"bzz-raw://dd5ee3b89a64c243f581eb3bc7cb5d71b21cb9e8afbf4bf40eb8fecc26f55a8a",
+				"dweb:/ipfs/QmPsi6QHhpYCbzj7PnLwfZeoVgvGuLoRZjLNcE3GRYMBLp"
+			]
+		}
+	},
+	"version": 1
+}

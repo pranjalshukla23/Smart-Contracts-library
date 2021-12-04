@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getMovieId",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setMovie",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ExcerciseStructs.sol": "ExceStructs"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ExcerciseStructs.sol": {
+			"keccak256": "0xa453606ef3544f332bb2619c15257e5e3157a3ae44012571db084395216ef23f",
+			"urls": [
+				"bzz-raw://820bfcd3868052b6f7cb18ff9c099fe392f2f37b4cbeb98f3081008dd4964f13",
+				"dweb:/ipfs/QmS2gDDdE6aod5XtjwdGCd88TMFBPc1HGV63fgSZiY7Lb4"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "addToEVM",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "addToEVM2",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "success",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "addToEVM3",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LearnAssembly.sol": "LearnAssembly"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LearnAssembly.sol": {
+			"keccak256": "0x15230dec9a112433e5991a423abae896afc7f3cc0d2b52d46b0f317046ee2d5a",
+			"urls": [
+				"bzz-raw://ccf2af9f4b9df096b0b6eef40370fc681b69aa1d1c35e724bb1b8ab81d398dfe",
+				"dweb:/ipfs/QmSEVayK54n2pAxBuigPBbz3ahCkw3KVG7GKPrTGBCV6MY"
+			]
+		}
+	},
+	"version": 1
+}
